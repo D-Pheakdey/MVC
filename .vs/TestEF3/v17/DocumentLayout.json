@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\staffs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\staffs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\staffs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\staffs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,59 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Staff.cs",
-              "RelativeDocumentMoniker": "TestEF3\\Models\\Staff.cs",
-              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Staff.cs",
-              "RelativeToolTip": "TestEF3\\Models\\Staff.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T14:20:49.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Details.cshtml",
-              "RelativeDocumentMoniker": "TestEF3\\Views\\Staffs\\Details.cshtml",
-              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Details.cshtml",
-              "RelativeToolTip": "TestEF3\\Views\\Staffs\\Details.cshtml",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T14:20:04.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Delete.cshtml",
-              "RelativeDocumentMoniker": "TestEF3\\Views\\Staffs\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Delete.cshtml",
-              "RelativeToolTip": "TestEF3\\Views\\Staffs\\Delete.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T14:15:25.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Index.cshtml",
-              "RelativeDocumentMoniker": "TestEF3\\Views\\Staffs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Index.cshtml",
-              "RelativeToolTip": "TestEF3\\Views\\Staffs\\Index.cshtml",
-              "ViewState": "AQIAABkAAAAAAAAAAAAwwDAAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T14:07:54.604Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
