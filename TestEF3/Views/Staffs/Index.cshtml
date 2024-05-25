@@ -1,0 +1,59 @@
+﻿@model IEnumerable<TestEF3.Models.Staff>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffName)
+            
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gender.GenderName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address.AddressName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StaffSalary)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffName)
+            
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gender.GenderName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address.AddressName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StaffSalary)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.StaffId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.StaffId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.StaffId })
+        </td>
+    </tr>
+}
+
+</table>

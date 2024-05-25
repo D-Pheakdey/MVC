@@ -1,0 +1,60 @@
+﻿@model TestEF3.Models.Staff
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Staff</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffName)
+
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffName)
+            
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gender.GenderName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gender.GenderName)
+        </dd>
+       
+        <dt>
+            @Html.DisplayNameFor(model => model.Address.AddressName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address.AddressName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StaffSalary)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StaffSalary)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StaffId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
