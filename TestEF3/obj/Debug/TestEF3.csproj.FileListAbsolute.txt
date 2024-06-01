@@ -89,3 +89,4 @@ C:\Users\PHEAKDEY\Desktop\TestEF3\TestEF3\obj\Debug\TestEF3.Migrations.CustomerT
 C:\Users\PHEAKDEY\Desktop\TestEF3\TestEF3\obj\Debug\TestEF3.Migrations.AddressTableModel.resources
 C:\Users\PHEAKDEY\Desktop\TestEF3\TestEF3\obj\Debug\TestEF3.Migrations.GenderNamaTable.resources
 C:\Users\PHEAKDEY\Desktop\TestEF3\TestEF3\obj\Debug\TestEF3.Migrations.StaffDataTable.resources
+C:\Users\PHEAKDEY\Desktop\TestEF3\TestEF3\obj\Debug\TestEF3.Migrations.ProductModel.resources

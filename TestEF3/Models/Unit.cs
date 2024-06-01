@@ -12,7 +12,7 @@ namespace TestEF3.Models
         public int UnitId { get; set; }
         [Required(ErrorMessage = "Unit Name Is Required")]
         [Display(Name = "Unit Name")]
-        public string UnitName { get; set; }
+        public String UnitName { get; set; }
         public string UnitPrice { get; set; }
         
     }

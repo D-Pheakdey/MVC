@@ -13,7 +13,7 @@ namespace TestEF3.Models
 
         [Required(ErrorMessage = "Category Name Is Required")]
         [Display(Name = "Category Name")]
-        public string CategoryName { get; set; }
+        public String CategoryName { get; set; }
         public string Note { get; set; }
 
     }

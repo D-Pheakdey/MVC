@@ -12,4 +12,5 @@ namespace TestEF3.Models
         public int AddressId { get; set; }
         public String AddressName { get; set; }
     }
+
 }

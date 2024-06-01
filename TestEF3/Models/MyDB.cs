@@ -16,6 +16,8 @@ namespace TestEF3.Models
         public DbSet<Address> address { get; set; }
         public DbSet<Staff> staff { get; set; }
         public DbSet<Gender> gender { get; set; }
+        public DbSet<Product> product { get; set; }
+
 
     }
 }

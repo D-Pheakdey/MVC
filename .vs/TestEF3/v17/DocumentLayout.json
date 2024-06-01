@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\staffs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\models\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|c:\\users\\pheakdey\\desktop\\testef3\\testef3\\models\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{809F520E-DC7D-4B6F-9491-457654727EC0}|TestEF3\\TestEF3.csproj|solutionrelative:testef3\\models\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TestEF3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TestEF3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T09:23:28.731Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Index.cshtml",
-              "RelativeDocumentMoniker": "TestEF3\\Views\\Staffs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Staffs\\Index.cshtml",
-              "RelativeToolTip": "TestEF3\\Views\\Staffs\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestEF3\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "TestEF3\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T15:46:51.72Z",
+              "WhenOpened": "2024-06-01T08:20:25.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TestEF3\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Category.cs",
+              "RelativeToolTip": "TestEF3\\Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:48:28.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Unit.cs",
+              "RelativeDocumentMoniker": "TestEF3\\Models\\Unit.cs",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Unit.cs",
+              "RelativeToolTip": "TestEF3\\Models\\Unit.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:48:25.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TestEF3\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\Product.cs",
+              "RelativeToolTip": "TestEF3\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:47:12.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyDB.cs",
+              "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\MyDB.cs",
+              "RelativeDocumentMoniker": "TestEF3\\Models\\MyDB.cs",
+              "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\TestEF3\\TestEF3\\Models\\MyDB.cs",
+              "RelativeToolTip": "TestEF3\\Models\\MyDB.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T07:31:18.522Z",
               "EditorCaption": ""
             }
           ]

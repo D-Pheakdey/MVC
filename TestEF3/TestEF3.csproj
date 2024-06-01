@@ -133,6 +133,7 @@
     <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\GendersController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductsController.cs" />
     <Compile Include="Controllers\StaffsController.cs" />
     <Compile Include="Controllers\UnitsController.cs" />
     <Compile Include="Global.asax.cs">
@@ -166,6 +167,10 @@
     <Compile Include="Migrations\202405251404426_StaffDataTable.Designer.cs">
       <DependentUpon>202405251404426_StaffDataTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202406010815264_ProductModel.cs" />
+    <Compile Include="Migrations\202406010815264_ProductModel.Designer.cs">
+      <DependentUpon>202406010815264_ProductModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Address.cs" />
     <Compile Include="Models\Customer.cs" />
@@ -173,6 +178,7 @@
     <Compile Include="Models\Clients.cs" />
     <Compile Include="Models\Gender.cs" />
     <Compile Include="Models\MyDB.cs" />
+    <Compile Include="Models\Product.cs" />
     <Compile Include="Models\Staff.cs" />
     <Compile Include="Models\Unit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -287,6 +293,11 @@
     <Content Include="Views\Staffs\Details.cshtml" />
     <Content Include="Views\Staffs\Edit.cshtml" />
     <Content Include="Views\Staffs\Index.cshtml" />
+    <Content Include="Views\Products\Create.cshtml" />
+    <Content Include="Views\Products\Delete.cshtml" />
+    <Content Include="Views\Products\Details.cshtml" />
+    <Content Include="Views\Products\Edit.cshtml" />
+    <Content Include="Views\Products\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -315,6 +326,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405251404426_StaffDataTable.resx">
       <DependentUpon>202405251404426_StaffDataTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202406010815264_ProductModel.resx">
+      <DependentUpon>202406010815264_ProductModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
